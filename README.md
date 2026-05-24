@@ -6,9 +6,9 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 
 ### Current Features:
 - **View and Edit** almost all data within the save file.
-- **Object Search** by ID and Name.
+- **Object Search** by ID, Name, Type.
 - **Stand-alone & Integrated Modes:** Works both with or without the game installed.
-- **Recovery:** Ability to read and open corrupted or "problematic" save files.
+- **Recovery:** Ability to read and open corrupted save files.
 
 ### Temporarily Disabled:
 - Support for modded save files.
@@ -30,7 +30,7 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 
 ### Текущие возможности:
 - **Просмотр и редактирование** практически всех данных в файле сохранения.
-- **Поиск объектов** по ID и названию.
+- **Поиск объектов** по ID, названию, типу.
 - **Гибкий режим работы:** редактор функционирует как с установленной игрой, так и без неё.
 - **Чтение поврежденных файлов:** поддержка открытия проблемных сейвов.
 
