@@ -16,7 +16,7 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 - Full logging.
 
 ### Usage:
-- [Download]((https://github.com/indiemagpie/Cassandra/releases)) and extract the `.exe` into the game’s root directory.
+- [Download](https://github.com/indiemagpie/Cassandra/releases) and extract the `.exe` into the game’s root directory.
 - **OR** manually specify the game path in the settings.
 - **OR** use the editor in standalone mode (no game required).
 
