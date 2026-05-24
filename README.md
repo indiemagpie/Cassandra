@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Cassandra_Logo.png" width="76" height="76" alt="Cassandra Logo">
+  <img src="Cassandra_Logo.png" width="45" height="45" alt="Cassandra Logo">
 </p>
 
 <h1 align="center">Cassandra</h1>
