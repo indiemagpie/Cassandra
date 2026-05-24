@@ -11,7 +11,7 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 - **Recovery:** Ability to read and open corrupted save files.
 
 ### Temporarily Disabled:
-- Support for modded save files.
+- Support save files with mods.
 - English localization.
 - Full logging.
 
@@ -35,7 +35,7 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 - **Чтение поврежденных файлов:** поддержка открытия проблемных сейвов.
 
 ### Временно отключено:
-- Поддержка сохранений с модификациями (модами).
+- Поддержка файлов сохранений с модами.
 - Локализация на английский язык.
 - Подробное логирование.
 
