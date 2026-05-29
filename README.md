@@ -10,7 +10,7 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 - The editor functions both with the game installed and standalone.
 - Support for opening problematic save files.
 
-### Temporarily Disabled:
+### Temporarily disabled:
 - Reading save files with active mods.
 - Detailed logging.
 
@@ -23,8 +23,8 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 - The language of the game and mod files is tied to the program's interface language.
 - When working without the game files, the functionality for editing certain parameters will be limited.
 - When opening a save file with outdated game files or mods, the CRC verification system may detect errors. The program will offer two options: 
-  1. **Correction:** Looks for items within the game and mod files; if unsuccessful, the bonuses and stats of the corrupted items will be removed.
-  2. **Read AS IS:** Bonuses are preserved, but the ability to edit them will be restricted.
+  1) **Correction:** Looks for items within the game and mod files; if unsuccessful, the bonuses and stats of the corrupted items will be removed.
+  2) **Read AS IS:** Bonuses are preserved, but the ability to edit them will be restricted.
 
 ---
 
@@ -49,7 +49,7 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 - Язык игровых и мод.файлов привязан к языку интерфейса программы.
 - При работе без файлов игры, функционал редактирования некоторых параметров будет ограничен.
 - При открытии сохранения с неактуальным набором файлов и модов, система проверки CRC может обнаружить ошибки. Программа предложит два варианта работы:
-   1. Коррекция - поиск предметов в файлах игры и модов, в случае неудачи бонусы и характеристики поврежденных предметов будут удалены.
-   2. Чтение AS IS - в таком случае, бонусы остаются, но возможность их редактирования ограничивается.
+   1) Коррекция - поиск предметов в файлах игры и модов, в случае неудачи бонусы и характеристики поврежденных предметов будут удалены.
+   2) Чтение AS IS - в таком случае, бонусы остаются, но возможность их редактирования ограничивается.
 
 ![Screenshot](Cassandra.png)
