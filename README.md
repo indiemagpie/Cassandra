@@ -14,12 +14,12 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 - Reading save files with active mods.
 - Detailed logging.
 
-### Instructions for Use:
+### Instructions for use:
 - [Download](https://github.com/indiemagpie/Cassandra/releases) and extract the executable file (`.exe`) into the game's root folder.
 - **OR** specify the path to the game folder in the program settings.
 - **OR** use the editor in standalone mode.
 
-### Important Notes:
+### Important notes:
 - The language of the game and mod files is tied to the program's interface language.
 - When working without the game files, the functionality for editing certain parameters will be limited.
 - When opening a save file with outdated game files or mods, the CRC verification system may detect errors. The program will offer two options: 
