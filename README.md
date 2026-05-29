@@ -5,47 +5,51 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 ## English
 
 ### Current Features:
-- **View and Edit** almost all data within the save file.
-- **Object Search** by ID, Name, Type.
-- **Stand-alone & Integrated Modes:** Works both with or without the game installed.
-- **Recovery:** Ability to read and open corrupted save files.
+- View and edit almost all data within the save file.
+- Search for objects by ID, name, or type.
+- The editor functions both with the game installed and standalone.
+- Support for opening problematic save files.
 
 ### Temporarily Disabled:
-- Support save files with mods.
-- English localization.
-- Full logging.
+- Reading save files with active mods.
+- Detailed logging.
 
-### Usage:
-- [Download](https://github.com/indiemagpie/Cassandra/releases) and extract the `.exe` into the game’s root directory.
-- **OR** manually specify the game path in the settings.
-- **OR** use the editor in standalone mode (no game required).
+### Instructions for Use:
+- [Download](https://github.com/indiemagpie/Cassandra/releases) and extract the executable file (`.exe`) into the game's root folder.
+- **OR** specify the path to the game folder in the program settings.
+- **OR** use the editor in standalone mode.
 
-### Important Tips:
-- **Limited Functionality:** Without the original game files, some parameters will be unavailable for editing.
-- **CRC Checks:** When opening a save file with mismatched or outdated mods, the CRC system may detect errors. The tool will attempt to auto-correct them; if correction fails, bonuses associated with those items will be removed to prevent further corruption.
+### Important Notes:
+- The language of the game and mod files is tied to the program's interface language.
+- When working without the game files, the functionality for editing certain parameters will be limited.
+- When opening a save file with outdated game files or mods, the CRC verification system may detect errors. The program will offer two options: 
+  1. **Correction:** Looks for items within the game and mod files; if unsuccessful, the bonuses and stats of the corrupted items will be removed.
+  2. **Read AS IS:** Bonuses are preserved, but the ability to edit them will be restricted.
 
 ---
 
 ## Русский
 
 ### Текущие возможности:
-- **Просмотр и редактирование** практически всех данных в файле сохранения.
-- **Поиск объектов** по ID, названию, типу.
-- **Гибкий режим работы:** редактор функционирует как с установленной игрой, так и без неё.
-- **Чтение поврежденных файлов:** поддержка открытия проблемных сейвов.
+- Просмотр и редактирование практически всех данных в файле сохранения.
+- Поиск объектов по ID, названию, типу.
+- Редактор функционирует как с установленной игрой, так и без неё.
+- Поддержка открытия проблемных сейвов.
 
 ### Временно отключено:
-- Поддержка файлов сохранений с модами.
-- Локализация на английский язык.
+- Чтение файлов сохранений с модами.
 - Подробное логирование.
 
 ### Инструкция по использованию:
 - [Скачайте](https://github.com/indiemagpie/Cassandra/releases) и распакуйте исполняемый файл (`.exe`) в корневую папку игры.
 - **ИЛИ** укажите путь к папке с игрой в настройках программы.
-- **ИЛИ** используйте редактор в автономном режиме (без файлов игры).
+- **ИЛИ** используйте редактор в автономном режиме.
 
 ### Важные примечания:
-- При работе без файлов игры функционал редактирования некоторых параметров будет ограничен.
-- При открытии сохранения с неактуальным набором модов система проверки CRC может обнаружить ошибки. Программа попытается исправить их автоматически; в случае неудачи бонусы и характеристики поврежденных предметов будут удалены.
+- Язык игровых и мод.файлов привязан к языку интерфейса программы.
+- При работе без файлов игры, функционал редактирования некоторых параметров будет ограничен.
+- При открытии сохранения с неактуальным набором файлов и модов, система проверки CRC может обнаружить ошибки. Программа предложит два варианта работы:
+   1. Коррекция - поиск предметов в файлах игры и модов, в случае неудачи бонусы и характеристики поврежденных предметов будут удалены.
+   2. Чтение AS IS - в таком случае, бонусы остаются, но возможность их редактирования ограничивается.
 
 ![Screenshot](Cassandra.png)
