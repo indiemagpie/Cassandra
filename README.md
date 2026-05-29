@@ -4,7 +4,7 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 
 ## English
 
-### Current Features:
+### Current features:
 - View and edit almost all data within the save file.
 - Search for objects by ID, name, or type.
 - The editor functions both with the game installed and standalone.
