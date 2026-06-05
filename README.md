@@ -5,10 +5,15 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 ## English
 
 ### Current features:
-- View and edit almost all data within the save file.
+- View, edit, and delete game objects.
+- Add new statuses and bonuses to ships.
+- Add extra bonuses to items.
 - Search for objects by ID, name, or type.
-- The editor functions both with the game installed and standalone.
-- Support for opening problematic save files.
+- Works both with the game installed and as a standalone editor.
+- Support for reading corrupted save files.
+
+### Upcoming features:
+- Creation of new objects.
 
 ### Temporarily disabled:
 - Reading save files with active mods.
@@ -31,10 +36,15 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 ## Русский
 
 ### Текущие возможности:
-- Просмотр и редактирование практически всех данных в файле сохранения.
+- Просмотр, редактирование, удаление объектов игры.
+- Добавление кораблю новых статусов и бонусов.
+- Добавление экстра-бонусов предметам.
 - Поиск объектов по ID, названию, типу.
 - Редактор функционирует как с установленной игрой, так и без неё.
-- Поддержка открытия проблемных сейвов.
+- Поддержка чтения проблемных сейв-файлов.
+
+### Будущие возможности:
+- Создание новых объектов.
 
 ### Временно отключено:
 - Чтение файлов сохранений с модами.
@@ -49,7 +59,7 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 - Язык игровых и мод.файлов привязан к языку интерфейса программы.
 - При работе без файлов игры, функционал редактирования некоторых параметров будет ограничен.
 - При открытии сохранения с неактуальным набором файлов и модов, система проверки CRC может обнаружить ошибки. Программа предложит два варианта работы:
-   1) Коррекция - поиск предметов в файлах игры и модов, в случае неудачи бонусы и характеристики поврежденных предметов будут удалены.
-   2) Чтение как есть - в таком случае, бонусы остаются, но возможность их редактирования ограничивается.
+   1) **Коррекция:** - поиск предметов в файлах игры и модов, в случае неудачи бонусы и характеристики поврежденных предметов будут удалены.
+   2) **Чтение как есть:** - в таком случае, бонусы остаются, но возможность их редактирования ограничивается.
 
 ![Screenshot](Cassandra.png)
