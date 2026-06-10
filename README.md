@@ -8,6 +8,7 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 - View, edit, and delete game objects.
 - Add new statuses and bonuses to ships.
 - Add extra bonuses to items.
+- Create new items in the star system.
 - Search for objects by ID, name, or type.
 - Works both with the game installed and as a standalone editor.
 - Support for reading corrupted save files.
@@ -39,6 +40,7 @@ Save Editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Spa
 - Просмотр, редактирование, удаление объектов игры.
 - Добавление кораблю новых статусов и бонусов.
 - Добавление экстра-бонусов предметам.
+- Создавать новые предметы в звездной системе.
 - Поиск объектов по ID, названию, типу.
 - Редактор функционирует как с установленной игрой, так и без неё.
 - Поддержка чтения проблемных сейв-файлов.
