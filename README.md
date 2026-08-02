@@ -2,7 +2,8 @@
 
 # <img src="Cassandra_Logo.png" width="40" height="40" valign="middle"> Cassandra
 
-Save editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Space_Rangers_HD_A_War_Apart/).
+Native version Save editor for [Space Rangers HD](https://store.steampowered.com/app/214730/Space_Rangers_HD_A_War_Apart/).
+Extended web version: [indiemagpie.github.io/Cassandra-web](https://indiemagpie.github.io/Cassandra-web/).
 
 ![Screenshot](Cassandra.png)
 
